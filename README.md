@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 Essa calculadora é um teste, provavelmente não será atualizada e foi feita apenas para aprendizado. Se quiser usá-la, pode usar :].
 
-## Equação usada em termos simples
+## Equação usada explicada melhor
 
 ### Cálculo de x
 
